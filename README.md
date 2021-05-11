@@ -50,7 +50,7 @@ __`❍ ./make_prediction.sh `__
 
 * app.py: This is the flask app that runs the service
 * Makefile: This file has make commands that allows for easy setup of a project
-* Dockerfile: This file has the setup for creating a Docker image for the microservice
+* Dockerfile: This file has the setup to create a Docker image for the microservice
 * run_docker.sh: This script creates a docker image from the Dockerfile, list the images and starts a container
 * make_prediction.sh: This script sends data for prediction using curl and prints the predicted value on the command line
 * upload_docker.sh: This script uploads a docker image to docker hub
@@ -58,4 +58,4 @@ __`❍ ./make_prediction.sh `__
 
 &nbsp;
 
-__*Happy developing!*__
+__*Enjoy developing!*__
