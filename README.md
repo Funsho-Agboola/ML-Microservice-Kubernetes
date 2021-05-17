@@ -6,7 +6,7 @@ This project operationalizes a machine learning microservice using kubernetes, w
 
 **1)** Fire up your favourite console & clone this repo somewhere:
 
-__`❍ git clone https://github.com/Fz-M/project-ml-microservice-kubernetes.git`__
+__`❍ git clone https://github.com/Funsho-Agboola/project-ml-microservice-kubernetes.git`__
 
 **2)** Enter this directory:
 
